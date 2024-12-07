@@ -1,1 +1,1 @@
-# Multiprogramming-Multitasking-Paralellik-ve-E-zamanl-l-k-
+# Multiprogramming,Multitasking,Paralellik ve Eşzamanlilik
