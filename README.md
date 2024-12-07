@@ -1,0 +1,1 @@
+# Multiprogramming-Multitasking-Paralellik-ve-E-zamanl-l-k-
