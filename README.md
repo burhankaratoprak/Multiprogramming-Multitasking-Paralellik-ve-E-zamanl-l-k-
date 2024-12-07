@@ -1,4 +1,4 @@
-## Multiprogramming,Multitasking,Paralellik ve Eşzamanlilik
+
 # Multiprogramming (Çok Programlılık)  
 Birden fazla programın bellekte tutulup sıralı olarak çalıştırılmasıdır. Amaç, CPU ve kaynakları daha verimli kullanmaktır.  
 
